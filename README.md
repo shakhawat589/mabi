@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) frontend design with [Tailwindcss](https://tailwindcss.com/)
+<br/><br/>
 ![Screenshot](./app/assets/screenshot.png "Screenshot")
+<br/>
+[Live Preview](https://mabi-indol.vercel.app/)
 
 ## Getting Started
 
